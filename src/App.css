@@ -1,0 +1,140 @@
+/* ----------------------nav-bar---------------------- */
+
+#nav-bar-bg-color{
+    background-color: #c6e3fd;
+}
+#link-text-color{
+    color: #31abfc !important;
+}
+#link-text-color1{
+    color: #262566 !important;
+}
+#link-text-color1:hover{
+    color: #31abfc !important;
+}
+#nav-bar-btn-color{
+    background-color: #31abfc !important;
+}
+#nav-bar-btn-color:hover{
+    background-color: #262566 !important;
+}
+/* --------------------Footer--------------------------- */
+.footer-top-div{
+    background-color: #212741;
+}
+.icon-bg-color{
+    background-color:#31abfc ;
+}
+.footer-btn-color{
+    background-color: #31abfc;
+}
+.footer-btn-color:hover{
+    background-color: #262566;
+}
+/* -----------------------footer1---------------------------- */
+.footer1{
+    background-color:#31abfc ;
+}
+.footer-text-color{
+    color: #fff;
+}
+/* -------------------------Home-page-first-section------------------- */
+.first-section-btn-clr1{
+      background-color: #31abfc;
+      color: #fff;
+}
+.first-section-btn-clr1:hover{
+    background-color: #262566;
+}
+.first-section-btn-clr2{
+    background-color:#262566 ;
+    color: #fff;
+}
+.first-section-btn-clr2:hover{
+    background-color: #31abfc;
+}
+.first-section-para-clr{
+    color: #6e6e9c;
+}
+.first-section-heading-clr{
+    color:#262566;
+}
+/* -----------------------home-about-us--------------------- */
+.home-about-us{
+    background-color: #f9fbfe;
+}
+.home-about-us-heading-color{
+    color:#262566 ;
+}
+.home-about-us-para-color{
+    color:#6e6e9c ;
+}
+/* ------------------------our-service------------------------- */
+.our-service{
+    background-color: #151449;
+}
+.border-color-our-service{
+    border: 1px dotted #31abfc;
+}
+/* --------------------------coutomers-says------------------------- */
+.box-color{
+    background-color: #f2f7fd;
+}
+.box-color-mid{
+    background-color:#262566 ;
+}
+.text-color-our{
+    color:#262566 ;
+}
+.para-color-our{
+    color: #6e6e9c;   
+}
+.icon-color{
+    color: #ffc107;
+}
+/* -------------------------home-contact------------------------------- */
+.back-color-contact{
+    background-color: #262566;
+}
+.contact-section{
+    background-color: #f2f7fd;
+}
+.btn-color-contact{
+    color: #fff;
+    background-color: #31abfc;
+}
+/* ------------------------------about-us--------------------------------- */
+.first-section-aboutus{
+    background-color: #151449;
+}
+.portfolio-back-color{
+    background-color: #151449;   
+}
+/* --------------------------------portfolio----------------------------- */
+.portfolio{
+    background-color: #151449; 
+}
+.port-text-color{
+    color: #151449;
+}
+.quality-heading-color{
+    color:#262566 ;
+}
+.quality-para-color{
+    color:#6e6e9c ;
+}
+.cut-heading-color{
+    color:#262566 ;
+}
+.contact-heading-color{
+    color:#262566 ;
+}
+.clients-heading-color{
+    color:#262566 ;
+}
+.port-card-text-color{
+    color:#6e6e9c ;
+}
+.contact-heading{
+    color:#262566 ;
+}
