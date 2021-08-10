@@ -55,6 +55,7 @@ function Footer() {
 
                          <div className="col-lg-3 col-sm-6 col-xs-12 ">
                             <h2 className="text-white">Newsletter</h2>
+                            <h2 className="text-white">Newsletter</h2>
                             <form className="mt-5 text-center">
                                 <input type="text" className="w-100 py-3 rounded" placeholder="Enter Your Email.." required/><br/>
                                 <p className="footer-btn-color py-3 my-3 rounded"><Link to="/" className="text-decoration-none text-white"><strong>Subscribe</strong></Link></p>
